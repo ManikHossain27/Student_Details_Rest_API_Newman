@@ -38,7 +38,7 @@ npm install -g newman-reporter-htmlextra
 ## Test case list:
 1. ### Create Student
 	1. > Create Data Sets Using the Dynamic Random Variables.
-  2. > Response time below 300 
+  	2. > Response time below 300 
 
 2. ### Verify Crated Student Details
 	> In the test case you need to validate the following field values:
@@ -46,12 +46,12 @@ npm install -g newman-reporter-htmlextra
  	2. > Middle Name
  	3. > Last Name
  	4. > Date of Birth
-  5. > Response time below 300 
+ 	5. > Response time below 300 
 
 3. ### Update Student
 	> In the test case you need to validate the following field values:
  	1. > Successful Message
-  2. > Response time below 300
+  	2. > Response time below 300
   
 4. ### Verify Verify Updated Student Details
 	> In the test case you need to validate the following field values:
@@ -59,17 +59,17 @@ npm install -g newman-reporter-htmlextra
  	2. > Middle Name
 	3. > Last Name
  	4. > Date of Birth
-  5. > Response time below 300 
+  	5. > Response time below 300 
 
 5. ### Create Technical skills Create Student Address
 	> In the test case you need to validate the following field values:
 	1. > Successful Message
-  2. > Response time below 300 
+  	2. > Response time below 300 
 
 6. ### Create a Student Address
 	> In the test case you need to validate the following field values:
 	1. > Successful Message
-  2. > Response time below 300 
+  	2. > Response time below 300 
 
 7. ### Get the Student's Full Details
 	> In the test case you need to validate the following field values:
@@ -87,7 +87,7 @@ npm install -g newman-reporter-htmlextra
 	12. > Std Code
 	13. > Home Address
 	14. > Mobile
-  15. > Response time below 300 
+  	15. > Response time below 300 
 
 8. ### Delete Specific Student
 	1. > In the test case you need to validate the following field values:
