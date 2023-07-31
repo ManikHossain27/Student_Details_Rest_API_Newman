@@ -94,8 +94,7 @@ npm install -g newman-reporter-htmlextra
 	2. > Response time below 300 
 
 ## Newman Report Summary:
-![Newman Report Summary](https://github.com/ManikHossain27/Student_Details_Rest_API_Newman/assets/131261253/d7f09930-6197-4cb6-945f-85df43a888ac)
-
-
 ![Newman Report Summary](https://github.com/ManikHossain27/Student_Details_Rest_API_Newman/assets/131261253/109fcc47-5831-4746-bf68-40b6367abbf0)
+
+![Newman Report Summary](https://github.com/ManikHossain27/Student_Details_Rest_API_Newman/assets/131261253/d7f09930-6197-4cb6-945f-85df43a888ac)
 
